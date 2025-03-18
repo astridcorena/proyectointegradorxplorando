@@ -19,6 +19,6 @@ npm install sweetalert
 
 TRABAJO INTEGRADOR FINAL-DESARROLLADOR FULL STACK - DIGITAL HOUSE: "XPLORANDO"
 
-Trabajo colaborativo, donde cumpli el ROLL de Scrum Master y formar parte del equipo de Back End y BBDD. 
+Trabajo colaborativo, donde cumplí el rol de desarrolladora Frontend  y formar parte del equipo ux-ui. 
 
 
